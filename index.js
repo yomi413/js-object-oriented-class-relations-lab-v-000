@@ -6,7 +6,7 @@ class Driver {
 // let driverId = 0
 // let passengerId = 0
 // let tripId = 0
-// 
+//
 // class Driver {
 //   constructor(name){
 //     this.id = ++driverId
@@ -22,7 +22,7 @@ class Driver {
 //     return store.passengers
 //   }
 // }
-// 
+//
 // class Passenger {
 //   constructor(name){
 //     this.id = ++passengerId
@@ -38,7 +38,7 @@ class Driver {
 //     return store.drivers
 //   }
 // }
-// 
+//
 // class Trip {
 //   constructor(driver, passenger){
 //     this.id = ++tripId
@@ -55,7 +55,7 @@ class Driver {
 // <<<<<<< HEAD
 //       return driver.id
 // =======
-//       return driver.id 
+//       return driver.id
 // >>>>>>> 8b88b8644656fb5684490b38a390b52ce594fbd7
 //     })
 //   }
