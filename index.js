@@ -48,7 +48,11 @@ class Trip {
   }
   driver(){
     return store.drivers.find(function(driver){
+<<<<<<< HEAD
       return driver.id
+=======
+      return driver.id 
+>>>>>>> 8b88b8644656fb5684490b38a390b52ce594fbd7
     })
   }
   passenger(){
